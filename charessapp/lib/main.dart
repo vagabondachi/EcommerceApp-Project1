@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:app_dev_final_req/pages/homepage.dart';
-import 'package:app_dev_final_req/pages/Cart_page.dart';
-import 'package:app_dev_final_req/pages/Item_Page.dart';
+import 'package:charessapp/pages/homepage.dart';
+import 'package:charessapp/pages/Cart_page.dart';
+import 'package:charessapp/pages/Item_Page.dart';
 
 
 void main()=> runApp(Charess());

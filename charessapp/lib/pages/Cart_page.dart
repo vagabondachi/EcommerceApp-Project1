@@ -1,8 +1,8 @@
-import 'package:app_dev_final_req/widgets/CartAppBar.dart';
-import 'package:app_dev_final_req/widgets/CartBottomNavBar.dart';
-import 'package:app_dev_final_req/widgets/CartItemSamples.dart';
+import 'package:charessapp/widgets/CartAppBar.dart';
+import 'package:charessapp/widgets/CartBottomNavBar.dart';
+import 'package:charessapp/widgets/CartItemSamples.dart';
 import 'package:flutter/material.dart';
-import 'package:app_dev_final_req/pages/Cart_page.dart';
+import 'package:charessapp/pages/Cart_page.dart';
 
 
 class CartPage extends StatelessWidget {

@@ -1,9 +1,9 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:app_dev_final_req/widgets/HomeAppBar.dart';
-import 'package:app_dev_final_req/widgets/Categories_Widgets.dart';
-import 'package:app_dev_final_req/widgets/Item_Widget.dart';
+import 'package:charessapp/widgets/HomeAppBar.dart';
+import 'package:charessapp/widgets/Categories_Widgets.dart';
+import 'package:charessapp/widgets/Item_Widget.dart';
 
 
 class Homepage extends StatelessWidget {

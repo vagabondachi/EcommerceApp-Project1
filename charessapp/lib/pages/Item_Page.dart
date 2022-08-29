@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:app_dev_final_req/widgets/ItemAppBar.dart';
+import 'package:charessapp/widgets/ItemAppBar.dart';
 import 'package:clippy_flutter/arc.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import 'package:app_dev_final_req/widgets/itemBottomNavBar.dart';
+import 'package:charessapp/widgets/itemBottomNavBar.dart';
 
 
 
