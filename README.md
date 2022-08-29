@@ -3,4 +3,4 @@ App Dev Final req
 
 ## Subheader
 
-Test texts
+Charess Merch App
